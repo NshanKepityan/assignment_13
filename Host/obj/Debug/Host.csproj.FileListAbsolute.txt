@@ -1,0 +1,10 @@
+C:\Users\Nshan\source\repos\Library\Host\bin\Debug\Host.exe.config
+C:\Users\Nshan\source\repos\Library\Host\bin\Debug\Host.exe
+C:\Users\Nshan\source\repos\Library\Host\bin\Debug\Host.pdb
+C:\Users\Nshan\source\repos\Library\Host\bin\Debug\Library.exe
+C:\Users\Nshan\source\repos\Library\Host\bin\Debug\Library.pdb
+C:\Users\Nshan\source\repos\Library\Host\bin\Debug\Library.exe.config
+C:\Users\Nshan\source\repos\Library\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+C:\Users\Nshan\source\repos\Library\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\Nshan\source\repos\Library\Host\obj\Debug\Host.exe
+C:\Users\Nshan\source\repos\Library\Host\obj\Debug\Host.pdb

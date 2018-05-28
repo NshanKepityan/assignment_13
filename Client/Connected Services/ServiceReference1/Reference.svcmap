@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3b0eea34-91b4-4439-ba00-153b118cd620" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8880/Library" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Library.disco" MetadataType="Disco" ID="2168e265-bc65-47d1-8c76-0e8d676f354b" SourceId="1" SourceUrl="http://localhost:8880/Library?disco" />
+    <MetadataFile FileName="Library.xsd" MetadataType="Schema" ID="00ddb30f-0597-404f-948c-4a60361f64bc" SourceId="1" SourceUrl="http://localhost:8880/Library?xsd=xsd2" />
+    <MetadataFile FileName="Library1.xsd" MetadataType="Schema" ID="4b393052-d981-4363-adba-e87858220b2e" SourceId="1" SourceUrl="http://localhost:8880/Library?xsd=xsd1" />
+    <MetadataFile FileName="Library.wsdl" MetadataType="Wsdl" ID="f151be29-c1b2-41b3-9ad9-dd4d458a91cb" SourceId="1" SourceUrl="http://localhost:8880/Library?wsdl" />
+    <MetadataFile FileName="Library2.xsd" MetadataType="Schema" ID="bf52a1f9-1536-4476-b456-fb38c5d47046" SourceId="1" SourceUrl="http://localhost:8880/Library?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
